@@ -8,9 +8,6 @@
 ```
 Usage: make [target]
 
-  Securely configure your Mac.
-  Developed by Aaron Lichtman -> (Github: alichtman)
-
 Available targets:
  help:            Help
  install:         Install project
